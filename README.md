@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, MySelf Vivek Rajan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-vivek&label=Profile%20views&color=0e75b6&style=flat" alt="developer-vivek" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer-vivek&theme=" alt="developer-vivek" /></a> </p>
 
 - 🔭 I’m currently working on **Hyprland Themes**
 - 🌱 I’m currently learning **Java **
