@@ -9,8 +9,6 @@
 - 📫 How to reach me **mistervivek@gmail.com**
 - ⚡ Fun fact **I think I am Human**
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
-
 <div> <a href="https://github.com/developer-vivek" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:mistervivek@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
