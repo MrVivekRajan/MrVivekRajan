@@ -1,19 +1,39 @@
-[![MasterHead]([https://cdn.dribbble.com/users/4487525/screenshots/14385684/dribbble___5_4x.png](https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/07/code-gen.jpg))
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, MySelf Vivek Rajan</h1>
-<h3 align="center">A passionate developer from India and Tech lover</h3>
-<img align="right" alt="Coding" width="350" src="[![images (3)](https://github.com/developer-vivek/My-Operating-Systems/assets/85994908/ba4b2447-bf79-469e-abc2-e1f3e3cf2a80)](https://www.bing.com/images/blob?bcid=T0i-AOlOlzYGwPSYTpNHmMYtlOg8.....w8)">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-vivek&label=Profile%20views&color=0e75b6&style=flat" alt="developer-vivek" /> </p>
 
-- 🌱 I’m currently learning **Java**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer-vivek&theme=gruvbox" alt="developer-vivek" /></a> </p>
 
-- 💬 Ask me about **Linux|Python|Css|Html**
+- 🔭 I’m currently working on **Hyprland Themes**
+- 🌱 I’m currently learning **Java **
+- 💬 Ask me about **Linux|Android|Python|Html|Css**
 
-<h3 align="left">Connect with me:</h3>
+- ⚡ Fun fact **I think I am Human**
+
+<div> <a href="https://github.com/developer-vivek" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe_illustrator-icon%20(1).svg" alt="Adobe Illustrator" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="![android](https://github.com/developer-vivek/My-Operating-Systems/assets/85994908/799dcca6-7e49-4299-b4ee-a47bffe06d38)" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/a1b2dac5667822ee0d98ae6d799da61987fd1658dfeb4d2ca6e3c99b1535ebd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-vivek&layout=compact&theme=gruvbox" alt=developer-vivek />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-vivek&" alt="developer-vivek" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=developer-vivek&show_icons=true&locale=en&theme=gruvbox" alt="developer-vivek" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-vivek&theme=gruvbox" alt="developer-vivek" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/developer-vivek">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=developer-vivek&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=developer-vivek&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=developer-vivek&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=developer-vivek&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developer-vivek&theme=2077" height="180em" />
+</div>
