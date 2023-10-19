@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on **Hyprland Themes**
 - 🌱 I’m currently learning **Java **
 - 💬 Ask me about **Linux|Android|Python|Html|Css**
-- 📫 How to reach me **mistervivek@gmail.com**
 - ⚡ Fun fact **I think I am Human**
 
 <div> <a href="https://github.com/developer-vivek" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
