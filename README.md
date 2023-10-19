@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/4487525/screenshots/14385684/dribbble___5_4x.png)width="40" height="40"
+[![MasterHead]([https://cdn.dribbble.com/users/4487525/screenshots/14385684/dribbble___5_4x.png](https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/07/code-gen.jpg)
 <h1 align="center">Hi 👋, MySelf Vivek Rajan</h1>
 <h3 align="center">A passionate developer from India and Tech lover</h3>
 <img align="right" alt="Coding" width="350" src="![images (3)](https://github.com/developer-vivek/My-Operating-Systems/assets/85994908/ba4b2447-bf79-469e-abc2-e1f3e3cf2a80)">
