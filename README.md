@@ -1,6 +1,6 @@
 <img src="[https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg](https://res.cloudinary.com/practicaldev/image/fetch/s--4Fs_pYWd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://thepracticaldev.s3.amazonaws.com/i/c8ae7kfcibg58pqfyugh.gif)" width="100%" />
 <h1 align="center">Hi 👋, MySelf Vivek Rajan</h1>
-<img align="right" alt="Coder" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
+<img align="right" alt="Coder" width="400" src="[https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-vivek&label=Profile%20views&color=0e75b6&style=flat" alt="developer-vivek" /> </p>
 
 
