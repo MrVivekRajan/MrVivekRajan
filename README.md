@@ -9,7 +9,7 @@
 - 💬 Ask me about **Linux|Android|Python|Html|Css**
 - ⚡ Fun fact **I think I am Human**
 
-<div> <a href="https://github.com/developer-vivek" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<div> <a href="https://github.com/MrVivekRajan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:mistervivek01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVivekRajan &layout=compact&theme=gruvbox" alt=MrVivekRajan />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVivekRajan &layout=compact&theme=black" alt=MrVivekRajan />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MrVivekRajan&show_icons=true&locale=en&theme=gruvbox" alt="MrVivekRajan" /></p>
 
