@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-vivek&label=Profile%20views&color=0e75b6&style=flat" alt="developer-vivek" /> </p>
 
 
-- 🔭 I’m currently studying **CSE** at **MNNIT-ALLAHABAD**
+- 🔭 I’m currently studying **CSE** at **Mnnit-Allahabad**
 - 🌱 I’m currently learning **Java **
 - 💬 Ask me about **Linux|Android|Python|Html|Css**
 - ⚡ Fun fact **I think I am Human**
