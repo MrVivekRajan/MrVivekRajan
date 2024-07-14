@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/user-attachments/assets/e02a2177-8b1d-45ed-a407-2b52b7b88848)](https://github.com/MrVivekRajan)
+[![MasterHead](https://github.com/user-attachments/assets/90b0970e-7910-49e5-8947-cfc7171ebd81)](https://github.com/MrVivekRajan)
 
 - 🔭 I’m currently studying **CSE** at **Mnnit-Allahabad**
 - 🌱 I’m currently learning **Java**
