@@ -23,15 +23,13 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVivekRajan&layout=compact&theme=dark" alt=MrVivekRajan />
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MrVivekRajan&show_icons=true&locale=en&theme=blue-green" alt="MrVivekRajan" /></p>
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MrVivekRajan&show_icons=true&locale=en&theme=gruvbox" alt="MrVivekRajan" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrVivekRajan&theme=blue-green" alt="MrVivekRajan" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrVivekRajan&theme=gruvbox" alt="MrVivekRajan" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="left">Statistics</h3>
 <div align="center">
 <a href="https://github.com/MrVivekRajan">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrVivekRajan&theme=gruvbox" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrVivekRajan&theme=gruvbox" height="180em" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVivekRajan&layout=compact&theme=bear" alt=MrVivekRajan />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrVivekRajan&theme=bear" height="180em" />
 </div>
