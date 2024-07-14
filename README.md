@@ -23,6 +23,6 @@
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrVivekRajan&theme=blue-green" alt="MrVivekRajan" /></p>
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVivekRajan&layout=compact&theme=blue-green" alt=MrVivekRajan />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="left">✍️ Quote</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
