@@ -14,7 +14,7 @@
 </div>
 
 # 💻 Language and Tool:
-![HTML5](https://img.shields.io/badge/html5-b16286.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-458588?style=plastic&logo=python&logoColor=ffdd54) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-5e81ac.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-bf616a.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-2e3440.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-d79921.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-cc241d.svg?style=flat-square&logo=html5&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-123499.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-2e3440.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white) ![Python](https://img.shields.io/badge/python-016764?style=flat-square&logo=python&logoColor=ffdd54) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-1c96c5.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-653780.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)
 
 <h3 align="left">📊Stars and Stats</h3>
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MrVivekRajan&show_icons=true&locale=en&theme=blue-green" alt="MrVivekRajan" /></p>
