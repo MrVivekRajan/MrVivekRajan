@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, MySelf Vivek Rajan</h1>
 <img align="right" alt="Coding" width="400" src="(https://cdn.dribbble.com/users/2574798/screenshots/9835660/artboard___16_4x.png)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MrVivekRajan&label=Profile%20views&theme=blue-green" alt="MrVivekRajan" /> </p>
+[![](https://visitcount.itsvg.in/api?id=MrVivekRajan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 - 🔭 I’m currently studying **CSE** at **Mnnit-Allahabad**
