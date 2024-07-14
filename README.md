@@ -16,10 +16,11 @@
 # 💻 Language and Tool:
 ![HTML5](https://img.shields.io/badge/html5-b16286.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-458588?style=plastic&logo=python&logoColor=ffdd54) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-5e81ac.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-bf616a.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-2e3440.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-d79921.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
-<h3 align="left">Stars</h3>
+<h3 align="left">📊Stars and Stats</h3>
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MrVivekRajan&show_icons=true&locale=en&theme=blue-green" alt="MrVivekRajan" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrVivekRajan&theme=blue-green" alt="MrVivekRajan" /></p>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVivekRajan&layout=compact&theme=blue-green" alt=MrVivekRajan />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="left">Statistics</h3>
 <div align="center">
