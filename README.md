@@ -1,5 +1,4 @@
 [![MasterHead](https://github.com/user-attachments/assets/e02a2177-8b1d-45ed-a407-2b52b7b88848)](https://github.com/MrVivekRajan)
-<h1 align="center">Hi 👋, MySelf Vivek Rajan</h1>
 
 - 🔭 I’m currently studying **CSE** at **Mnnit-Allahabad**
 - 🌱 I’m currently learning **Java**
