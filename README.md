@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVivekRajan &layout=compact&theme=gruvbox" alt=MrVivekRajan />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVivekRajan&layout=compact&theme=gruvbox" alt=MrVivekRajan />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MrVivekRajan&show_icons=true&locale=en&theme=gruvbox" alt="MrVivekRajan" /></p>
 
