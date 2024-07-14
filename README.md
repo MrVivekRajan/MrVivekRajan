@@ -7,7 +7,7 @@
 - 💬 Ask me about **Linux|Android|Python|Html|Css**
 - ⚡ Fun fact **I think I am Human**
 
-<p align="left"> <img src="https://visitcount.itsvg.in/api?id=MrVivekRajan&label=Profile%20Views&color=1&pretty=true" alt="MrVivekRajan" /> </p>
+<p align="left"> <img src="https://visitcount.itsvg.in/api?id=MrVivekRajan&label=Profile%20Views&color=3&pretty=true" alt="MrVivekRajan" /> </p>
 
 <div> <a href="https://github.com/MrVivekRajan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:mistervivek01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
