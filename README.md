@@ -24,7 +24,4 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="left">Statistics</h3>
 <div align="center">
-<a href="https://github.com/MrVivekRajan">
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVivekRajan&layout=compact&theme=blue-green" alt=MrVivekRajan />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrVivekRajan&theme=blue-green" height="180em" />
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
