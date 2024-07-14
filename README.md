@@ -1,4 +1,4 @@
-<img src="[https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg](https://res.cloudinary.com/practicaldev/image/fetch/s--4Fs_pYWd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://thepracticaldev.s3.amazonaws.com/i/c8ae7kfcibg58pqfyugh.gif)" width="100%" />
+<img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952pqnv2cg154r6b0rk4atbew0rbi5ueylpyrfc4zru&ep=v1_gifs_search&rid=200w.gif&ct=g" width="100%" />
 <h1 align="center">Hi 👋, MySelf Vivek Rajan</h1>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952pqnv2cg154r6b0rk4atbew0rbi5ueylpyrfc4zru&ep=v1_gifs_search&rid=200w.gif&ct=g"/>
 
