@@ -11,7 +11,9 @@
 
 <div> <a href="https://github.com/MrVivekRajan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:mistervivek01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">💻 Languages and Tools:</h3>
+</div>
+
+<h3 align="left">💻 Languages and Tools:</h3>
 ![HTML5](https://img.shields.io/badge/html5-b16286.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-458588?style=plastic&logo=python&logoColor=ffdd54) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-5e81ac.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-bf616a.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-2e3440.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-d79921.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 <h3 align="left">Stars</h3>
