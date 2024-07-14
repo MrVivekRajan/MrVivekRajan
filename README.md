@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1--jtM1ee4pqwpiqphrJQu3qXmsP7pGJQ/view?usp=drive_link)](https://github.com/MrVivekRajan)
+[![MasterHead](https://github-production-user-asset-6210df.s3.amazonaws.com/85994908/348473492-c6072fbf-edeb-45ef-a3f6-bb975cd6e8db.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240714%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240714T124714Z&X-Amz-Expires=300&X-Amz-Signature=604170eb6795d6b3a9aaed431848d780a63ad52da6cd0c85c93520f62a9cf116&X-Amz-SignedHeaders=host&actor_id=85994908&key_id=0&repo_id=745107627)](https://github.com/MrVivekRajan)
 <h1 align="center">Hi 👋, MySelf Vivek Rajan</h1>
 
 - 🔭 I’m currently studying **CSE** at **Mnnit-Allahabad**
