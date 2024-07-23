@@ -23,4 +23,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ✍️ Random Quotes
-[![Footer](https://github.com/MrVivekRajan/MrVivekRajan/blob/main/github.png?raw=true)](https://github.com/MrVivekRajan)
+[![Footer](https://github.com/MrVivekRajan/MrVivekRajan/blob/main/bye.gif?raw=true)](https://github.com/MrVivekRajan)
