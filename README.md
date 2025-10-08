@@ -1,6 +1,5 @@
 [![Banner](https://github.com/MrVivekRajan/MrVivekRajan/blob/main/github.png?raw=true)](https://github.com/MrVivekRajan)
 
-- 🔭 I’m currently studying **CSE** at **Mnnit-Allahabad**
 - 🌱 I’m currently learning **Java**
 - 💬 Ask me about **Linux|Android|Python|Html|Css**
 - ⚡ Fun fact **I think I am Human**
